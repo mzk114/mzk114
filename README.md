@@ -2,6 +2,8 @@ Hello,there I'm Mohammed Zaid Khan
 
 ## I'm a Programmer and Student!
 
+![Purple Blue Neon Future Themed Desktop Wallpaper](https://github.com/mzk114/mzk114/assets/97281779/9ea519fa-199e-4657-8cc8-12ea57819635)
+
 ### 👨🏻‍💻 About Me
 - Interested in exploring different technologies and developing quick hacks.
 - Pursuing a Bachelor's Degree in Computer Science and Engineering.
