@@ -61,9 +61,7 @@
 </ul>
 <br />
 
-### :zap: Stats
 
-<img alt="Zaid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mzk114&show_icons=true&hide=prs,contribs" />
 
 
 
